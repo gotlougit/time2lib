@@ -16,6 +16,8 @@ Enter the time duration for each session as hour:minute in whole numbers.
 
 ## Install
 To install time2lib, clone this git repository using git-
+
+#### On GNU\Linux and Mac OS:
 ```
 git clone https://github.com/gotlougit/time2lib.git 
 ```
@@ -23,6 +25,12 @@ git clone https://github.com/gotlougit/time2lib.git
 `cd` into the directory created and-
 
 `$ python3 setup.py install`
+
+#### On Windows:
+Not supported yet! The install instructions should translate over the same.
+
+Download the code as a .zip file from GitHub, extract it and run setup.py just like in the 
+above instructions.
 
 ## Roadmap
 
