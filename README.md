@@ -26,5 +26,7 @@ git clone https://github.com/gotlougit/time2lib.git
 
 ## Roadmap
 
-* Add more functionality
+* Add notification support
+* Make a reference GUI for easy usage
+* Add the ability to run the program automatically in the background.
 * Build a fully featured reference implementation that can be used to build other versions for all platforms
